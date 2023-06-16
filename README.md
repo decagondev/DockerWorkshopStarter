@@ -8,7 +8,7 @@ sudo docker run -d -p 80:8988 tutum/hello-world
 curl http://localhost:8988/
 ```
 The end result should give you back:
-```bash
+```
 Hello world!
 ```
 if this is the case then you have a working docker installation.
